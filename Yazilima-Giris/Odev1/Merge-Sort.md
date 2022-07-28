@@ -7,7 +7,7 @@
 ## **Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
 
 
-- öncelikle diziyi her bir eleman tek kalacak şekilde ayırırız.
+- diziyi her bir eleman tek kalacak şekilde ayırırız.
 
 
 [16, 21, 11] ---- [8, 12, 22]
@@ -17,7 +17,7 @@
 [16] - [21] - [11] - [8] - [12] - [22]
 
 
-- şimdi ise elemanları sıralayarak birleştireceğiz.
+- elemanları sıralayarak birleştiririz.
 
 
 [16, 21] -- [11] --- [8, 12] -- [22]
