@@ -1,0 +1,2 @@
+# Python Ders Notları
+
